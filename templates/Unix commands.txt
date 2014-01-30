@@ -1,0 +1,3 @@
+Unix commands
+
+ssh -i c:/Projects/InsightProject/bubble_burst.pem ubuntu@54.193.20.53
